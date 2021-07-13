@@ -1,13 +1,20 @@
-## E ai! Tudo tranquilo? Eu sou Gabriel Quadrado! Seja bem vindo ao meu perfil! 
+ # **E ai! Tudo tranquilo? Me chamo Gabriel Quadrado!**
+ ## Futuro desenvolvedor full stack, em constante evolução! :mortar_board::computer: 
+ **Seja bem vindo ao meu perfil  :shipit:**
+ 
+ ##
+ 
+ ## :octocat: GitHub Stats:
+ 
  <div>
   <a href="https://github.com/GabrielQuadrado7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielQuadrado7&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielQuadrado7&layout=compact&langs_count=7&theme=onedark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabrielQuadrado7&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielQuadrado7&layout=compact&langs_count=7&theme=onedark"/>
 </div>
  
  ##
  
- ## Skills:
+ ## :books: Skills:
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Biel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,7 +27,7 @@
   
  ##
  
- ## Contact:
+ ## :e-mail: Contact: 
  
 <div> 
   <a href="https://www.youtube.com/channel/UCPA3DDx2pZkbPvQVvz40mxA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -32,3 +39,11 @@
   ![Snake animation](https://github.com/GabrielQuadrado7/GabrielQuadrado7/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+ 
+ ## 🦸 Autor
+
+<a href="https://www.linkedin.com/in/gabriel-delmondes-quadrado-9b202a191/">
+ <img style="border-radius: 50%;" src="https://ibb.co/Cmx3mq2"  alt=""/>
+ <br />
+ <sub><b>Gabriel Quadrado</b></sub>🚀</a>
+ <br />
