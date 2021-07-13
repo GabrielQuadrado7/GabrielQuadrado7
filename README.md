@@ -40,10 +40,9 @@
  
 </div>
  
- ## 🦸 Autor
-
+ ## :man_student: Autor
+<a href="https://ibb.co/m4sw2wt"><img src="https://i.ibb.co/m4sw2wt/perfil-foto.jpg" alt="perfil-foto" border="0"></a>
 <a href="https://www.linkedin.com/in/gabriel-delmondes-quadrado-9b202a191/">
- <img style="border-radius: 50%;" src="https://ibb.co/Cmx3mq2"  alt=""/>
  <br />
- <sub><b>Gabriel Quadrado</b></sub>🚀</a>
+ <sub><b>Gabriel Quadrado</b></sub></a>🚀
  <br />
