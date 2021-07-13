@@ -1,4 +1,4 @@
-## E ai! Tudo tranquilo? Eu sou Gabriel Quadrado! 
+## E ai! Tudo tranquilo? Eu sou Gabriel Quadrado! Seja bem vindo ao meu perfil! 
  <div>
   <a href="https://github.com/GabrielQuadrado7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielQuadrado7&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
