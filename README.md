@@ -1,6 +1,6 @@
  # **E ai! Tudo tranquilo? Me chamo Gabriel Quadrado**
  ## Futuro desenvolvedor full stack, em constante evolução! :mortar_board::computer: 
- **Seja bem vindo ao meu perfil  :shipit:**
+ **Perfil em construção :hammer_and_wrench: porém seja bem vindo! :shipit:**
  
  ##
  
