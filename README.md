@@ -1,6 +1,8 @@
  # **E ai! Tudo tranquilo? Me chamo Gabriel Quadrado**
- ## Futuro desenvolvedor full stack, em constante evolução! :mortar_board::computer: 
+ ## Adquirindo conhecimentos para traçar minhas metas, em constante evolução para me tornar um Desenvolvedor Full-Stack! :mortar_board::computer: 
  **Perfil em construção :hammer_and_wrench: Seja bem vindo! :shipit:**
+ 
+ **Road to Sucess!!!**
  
  ##
  
@@ -15,12 +17,13 @@
  
  
 <div style="display: inline_block"><br>
-  <img align="center" alt="Biel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Biel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Biel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Biel-bootstrap" width="40" height="30" src="https://v5.getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png">
+  <img align="center" alt="Biel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Biel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Biel-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
- 
+
 </div>
   
  ##
