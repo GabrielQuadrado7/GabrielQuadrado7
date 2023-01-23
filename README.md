@@ -8,7 +8,7 @@
  
  ## :octocat: GitHub Stats:
 
-  ![github stats](https://github-readme-stats.vercel.app/api?username=GabrielQuadrado7&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true")
+  ![github stats](https://github-readme-stats.vercel.app/api?username=GabrielQuadrado7&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielQuadrado7&layout=compact&langs_count=7&theme=midnight-purple)
  
  ##
