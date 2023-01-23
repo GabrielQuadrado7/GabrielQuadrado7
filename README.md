@@ -1,15 +1,15 @@
  # **E ai! Tudo tranquilo? Me chamo Gabriel Quadrado**
  ## Adquirindo conhecimentos para traçar minhas metas, em constante evolução para me tornar um Desenvolvedor Full-Stack! :mortar_board::computer: 
  **Perfil em construção :hammer_and_wrench: Seja bem vindo! :shipit:**
- 
- **Road to Sucess!!!**
+
+ **<!-Road to Sucess!!!->**
  
  ##
  
  ## :octocat: GitHub Stats:
 
-  ![github stats](https://github-readme-stats.vercel.app/api?username=GabrielQuadrado7&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielQuadrado7&layout=compact&langs_count=7&theme=midnight-purple)
+  ![github stats](https://github-readme-stats.vercel.app/api?username=GabrielQuadrado7&show_icons=true&theme=dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielQuadrado7&layout=compact&theme=dark)
  
  ##
 
@@ -42,7 +42,7 @@
 </div>
  
  ## :man_student: Autor
-<a href="https://ibb.co/m4sw2wt"><img src="https://i.ibb.co/m4sw2wt/perfil-foto.jpg" alt="perfil-foto" border="0"></a>
+<a href="https://ibb.co/m4sw2wt"><img src="https://i.ibb.co/hZ5J4cS/1673407326261.jpg" alt="perfil-foto" border="0"></a>
 <a href="https://www.linkedin.com/in/gabriel-delmondes-quadrado-9b202a191/">
  <br />
  <sub><b>Gabriel Quadrado</b></sub></a>🚀
