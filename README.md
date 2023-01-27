@@ -1,6 +1,20 @@
- # **E ai! Tudo tranquilo? Me chamo Gabriel Quadrado**
- ## Adquirindo conhecimentos para traçar minhas metas, em constante evolução para me tornar um Desenvolvedor Full-Stack! :mortar_board::computer: 
- **Perfil em construção :hammer_and_wrench: Seja bem vindo! :shipit:**
+ # **Hello there! All quiet? My name is Gabriel Quadrado**
+ ## Acquiring knowledge to set my goals, in constant evolution to become a Full-Stack Developer! :mortar_board::computer: 
+ **Profile under construction :hammer_and_wrench: Welcome :shipit:**
+ 
+ 
+ <img align="right" width="300" height="190" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+ 
+ ```kotlin
+object GabrielQuadrado7{
+ const name = "Gabriel Quadrado"
+ const acknowledgements = "Front-End Developer"
+ 
+ const primarySkillset = "Front end Development"
+ const languages = listOf("Javascript") 
+
+}
+```
 
  **<!-Road to Sucess!!!->**
  
@@ -41,7 +55,7 @@
  
 </div>
  
- ## :man_student: Autor
+ ## :man_student: Author
 <a href="https://ibb.co/m4sw2wt"><img src="https://i.ibb.co/hZ5J4cS/1673407326261.jpg" alt="perfil-foto" border="0"></a>
 <a href="https://www.linkedin.com/in/gabriel-delmondes-quadrado-9b202a191/">
  <br />
