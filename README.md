@@ -2,19 +2,19 @@
  ## Acquiring knowledge to set my goals, in constant evolution to become a Full-Stack Developer! :mortar_board::computer: 
  **Profile under construction :hammer_and_wrench: Welcome :shipit:**
  
- 
- <img align="right" width="right" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
- 
- kotlin
-object GabrielQuadrado7{
- const name = "Gabriel Quadrado"
- const acknowledgements = "Front-End Developer"
- 
- const primarySkillset = "Front end Development"
- const languages = listOf("Javascript") 
+<div display="flex" flex="flex-wrap">
+ <img max-width="100%" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" /></br>
 
-}
+   ```kotlin
+ object GabrielQuadrado7{
+  const name = "Gabriel Quadrado"
+  const acknowledgements = "Front-End Developer"
 
+  const primarySkillset = "Front end Development"
+  const languages = listOf("Javascript") 
+ }
+ ```
+ </div>
 
  **<!-Road to Sucess!!!->**
  
