@@ -1,5 +1,10 @@
- # **Hello there! All quiet? My name is Gabriel Quadrado**
+ # **Hello there! All quiet? My name is Gabriel Quadrado**!
  ## Acquiring knowledge to set my goals, in constant evolution to become a Front-End Developer! :mortar_board::computer: 
+ 
+**🎓 Front-End Development Student**
+**📚 Studying JavaScript, Bootstrap and SASS**
+**📫 Contact me at email: gabrielquadrado70@gmail.com**
+ 
  **Profile under construction :hammer_and_wrench: Welcome :shipit:**
  
 <div display="flex" flex="flex-wrap">
@@ -34,6 +39,7 @@
   <img align="center" alt="Biel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Biel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Biel-bootstrap" width="40" height="30" src="https://v5.getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png">
+  <img align="center" alt="Biel-sass" width="40" height="30" src="https://sass-lang.com/assets/img/logos/logo.svg">
   <img align="center" alt="Biel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Biel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
