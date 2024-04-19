@@ -1,5 +1,5 @@
  # **Hello there! All quiet? My name is Gabriel Quadrado**
- ## Acquiring knowledge to set my goals, in constant evolution to become a Full-Stack Developer! :mortar_board::computer: 
+ ## Acquiring knowledge to set my goals, in constant evolution to become a Front-End Developer! :mortar_board::computer: 
  **Profile under construction :hammer_and_wrench: Welcome :shipit:**
  
 <div display="flex" flex="flex-wrap">
