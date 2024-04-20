@@ -1,9 +1,9 @@
  # **Hello there! All quiet? My name is Gabriel Quadrado**!
  ## Acquiring knowledge to set my goals, in constant evolution to become a Front-End Developer! :mortar_board::computer: 
  
-**🎓 Front-End Development Student**
-**📚 Studying JavaScript, Bootstrap and SASS**
-**📫 Contact me at email: gabrielquadrado70@gmail.com**
+**🎓 Front-End Development Student**<br/>
+**📚 Studying JavaScript, Bootstrap and SASS**<br/>
+**📫 Contact me at email: gabrielquadrado70@gmail.com**<br/>
  
  **Profile under construction :hammer_and_wrench: Welcome :shipit:**
  
