@@ -60,9 +60,6 @@
  
 </div>
  
- ## :man_student: Author
-<a href="https://ibb.co/m4sw2wt"><img src="https://i.ibb.co/hZ5J4cS/1673407326261.jpg" alt="perfil-foto" border="0"></a>
-<a href="https://www.linkedin.com/in/gabriel-delmondes-quadrado-9b202a191/">
  <br />
  <sub><b>Gabriel Quadrado</b></sub></a>🚀
  <br />
